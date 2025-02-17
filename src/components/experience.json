@@ -1,0 +1,30 @@
+ [
+    {
+      "company": "Tata Consultancy Services",
+      "role": "Assistant System Engineer",
+      "duration": "April 2024 – Present",
+      "link" : "https://www.tcs.com/",
+      "highlights": [
+        "Developed a scalable <b>e-commerce platform</b>, enhancing product discovery and navigation for millions of users across multiple regions",
+        "Optimized <b>ReactJS</b> and <b>Redux</b> components by implementing efficient state management, reducing re-rendering by <b><b>30%</b></b> and improving overall responsiveness.",
+        "Enhanced UI performance with <b>lazy loading</b>, efficient state management, and code splitting, cutting page load time by <b>35%</b>.",
+        "Engaged in code reviews, architecture discussions and documented technical processes to ensure best practices and maintainability"
+      ]
+    },
+
+    {
+        "company": "Walkover Web Solution Pvt Limited",
+        "role": "Software Developer Intern",
+        "duration": "January 2023 – August 2023",
+        "link" : "https://walkover.in/",
+        "highlights": [
+          "Assisted in development of the <b>front end</b> of a web based product <b>DB Dash</b> application using <b>MERN stack</b> framework from scratch with a team of <b>5 members</b>.",
+          "Integrated <b>Google Firebase</b> for secure user authentication and login",
+          " Collaborated with team members using<b> version control systems</b> such as <b>Git</b> to organize modifications and assign tasks.",
+          "Created reusable components using <b>React</b> following industry standards for writing high quality readable code using different <b>NPM packages & libraries</b>.",
+          "Experimented various <b>Open Source data grid tables</b> for integration."
+        ]
+        
+      }
+  ]
+  

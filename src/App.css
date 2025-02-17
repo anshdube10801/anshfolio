@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root {
+    --custom-head-text: #c90e24e0;  
+    --custom-bg : #fafafa;
+    --custom-red-btn: #c90e24e1;
+    --custom-red-btn-hover: #c90e24c4;
+    --custom-red-sec-btn-hover: #c90e2411;
+    --custom-nav-link : #c90e24f5;
+
+
+  }

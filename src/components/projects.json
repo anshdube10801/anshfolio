@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Portfolio Website",
+      "description": "A personal portfolio website to showcase my skills and projects.  Built with React, Tailwind CSS, and hosted on Netlify.  This project demonstrates my ability to create responsive and visually appealing web applications.",
+      "image": "/folio.png",  
+      "liveLink": "https://anshdube.netlify.app/"
+    },
+    {
+      "title": "Link Shortener",
+      "description": "A web application that shortens long URLs using a custom algorithm.  Built with [mention technologies used, e.g., Node.js, Express, MongoDB].  This project highlights my backend development skills and my ability to work with databases.",
+      "image": "/urlShortner.png", 
+      "liveLink": "https://shortifymylink.netlify.app/"
+    },
+    {
+      "title": "DB Dash",
+      "description": "DB Dash is a low-code/no-code database platform that allows users to create, manage, and visualize data without extensive programming knowledge. It simplifies database management by providing a user-friendly interface for querying, automation, and integration, making it ideal for businesses and non-technical users.",
+      "image": "/dbdash.png", 
+      "liveLink": "https://table.viasocket.com/"
+    }
+  ]

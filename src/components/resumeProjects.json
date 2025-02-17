@@ -1,0 +1,38 @@
+[
+    {
+      "projectTitle": "Personal Portfolio",
+      "tech": "React JS, Tailwind CSS, Netlify",
+      "link": "https://anshdube.netlify.app/",
+      "highlights": [
+        "Developed a <b>responsive</b> portfolio using <b>ReactJS , Tailwind CSS and Netlify</b> to host portfolio and go global in minutes.",
+         "Deployed on Netlify, ensuring <b>99.9%</b> uptime and scalable global access with reduced load times for enhanced performance.",
+        "Utilized <b>Git</b> for version control to efficiently manage codebase and track development changes." 
+      ]
+    },
+
+    {
+        "projectTitle": "Link Shortener",
+        "tech": "ReactJS, MongoDB Atlas, ExpressJS",
+        "link": "https://shortifymylink.netlify.app/",
+        "highlights": [
+            "Built a fully <b>responsive</b> URL shortener with <b>real-time</b> link generation and sharing.",
+             "Optimized backend for high-performance redirection with scalable <b>Node.js</b> architecture.",
+             "Deployed <b>frontend on Netlify</b> and <b>backend on Render</b>, achieving <b>99.9%</b> uptime and fast global access.",
+             "Managed version control and collaboration using <b>Git</b>, ensuring clean code and efficient development."
+        ]
+      },
+
+      {
+        "projectTitle": "Reva",
+        "tech": "ReactJS, MongoDB Atlas, Express JS, React-fiber",
+        "link": "https://revadigicom.netlify.app/",
+        "highlights": [
+            "Collaborating with the <b>client</b>, <b>Reva</b> to develop a scalable and <b>user-centric web application</b> tailored to business requirements.",
+            "Implementing robust frontend features using <b>ReactJS</b> for a seamless and interactive user experience.",
+           " Developing and optimizing <b>RESTful APIs</b> to enable efficient communication between frontend and backend services.",
+           "Managing version control and continuous code improvement using <b>Git</b>.",
+            "Conducting functional testing to ensure smooth delivery and identify critical bugs prior to deployment."
+        ]
+      }
+  ]
+  
