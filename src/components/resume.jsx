@@ -21,7 +21,7 @@ const Resume = () => {
         <div className="max-w-2xl mx-auto px-5 sm:px-0"> 
           {/* Resume Download */}
           <a
-            href="https://drive.google.com/file/d/18N6FXLTD3VgwP_HXVoOZ0zF7p345pKIn/view"
+            href="https://drive.google.com/drive/folders/1RsJZCkVNyT14Gu8eHg6s8UWEDpdppijd"
             target="_blank"
             rel="noopener noreferrer"
           >
