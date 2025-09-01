@@ -1,5 +1,3 @@
-import React from 'react';
-import Heropic from '../assets/freef.png'
 import { Link } from 'react-router-dom';
 
 const Hero = () => {
@@ -46,11 +44,17 @@ const Hero = () => {
 
         </div>
         <div className="lg:col-span-5 mt-8 lg:mt-0 flex justify-center">
-          <img
-            src={Heropic}
-            alt="mockup"
-            className="w-full max-w-md"
-          />
+          <picture>
+  <source srcSet="/hero.avif" type="image/avif" />
+  <source srcSet="/hero.webp" type="image/webp" />
+  <img 
+    src="/images/hero.png" 
+    alt="mockup" 
+    className="w-full max-w-md" 
+    fetchpriority="high"
+  />
+</picture>
+
         </div>
       </div>
     </section>
