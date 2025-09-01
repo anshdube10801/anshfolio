@@ -1,5 +1,4 @@
 import React, { useState, useRef, useEffect } from 'react';
-import Logo from '../assets/logo.png';
 import { NavHashLink } from 'react-router-hash-link';
 import { RiArrowDropDownLine } from "react-icons/ri";
 import projectsData from './projects.json'
@@ -34,7 +33,7 @@ const Navbar = () => {
       <nav className="sticky top-0 z-999 bg-white border-gray-200 dark:border-gray-600 dark:bg-gray-900 shadow-lg">
         <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-2">
           <NavHashLink to="/" className="flex items-center space-x-3 rtl:space-x-reverse">
-            <img src={Logo} className="h-18" alt="Logo" />
+            <img src="/logo.svg" className="h-18" alt="Logo" fetchpriority="high" />
           </NavHashLink>
           <div
             id="mega-menu-full"
