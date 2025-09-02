@@ -48,7 +48,7 @@ const Hero = () => {
   <source srcSet="/hero.avif" type="image/avif" />
   <source srcSet="/hero.webp" type="image/webp" />
   <img 
-    src="/images/hero.png" 
+    src="/hero.png" 
     alt="mockup" 
     className="w-full max-w-md" 
     fetchpriority="high"
